@@ -24,17 +24,17 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Notre Dame  
+    url: https://nd.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
+#  - icon: at-symbol
+#    url: 'mailto:your-email@example.com'
+#    label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/MeganKLevis
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
