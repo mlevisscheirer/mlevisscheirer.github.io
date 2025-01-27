@@ -10,8 +10,8 @@ first_name: Megan Levis
 last_name: Scheirer
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
