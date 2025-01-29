@@ -183,4 +183,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Megan Levis Sheirer, Ph.D. is an assistant professor of the practice with the University of Notre Dame’s Institute for Social Concerns and College of Engineering. Her research interests relate to questions concerning how technology shapes the cultural understanding of what it means to be human, and how technology can be designed to encourage virtue and the common good. Dr. Levis recently co-authored a book on social technology and virtue called Virtue in Virtual Spaces.
+
