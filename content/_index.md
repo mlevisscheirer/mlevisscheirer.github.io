@@ -31,9 +31,10 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: research
+
     content:
       title: '📚 My Work'
-      id: research
       subtitle: ''
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
@@ -44,9 +45,10 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: teaching
+
     content:
       title: Featured Projects
-      id: teaching
 
       filters:
         folders:
