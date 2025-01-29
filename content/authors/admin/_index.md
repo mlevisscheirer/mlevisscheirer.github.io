@@ -10,7 +10,7 @@ first_name: Megan Levis
 last_name: Scheirer
 
 # Status emoji
-#status:
+# status:
 #  icon: ☕️
 
 # Is this the primary user of the site?
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor of the Practice
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -37,8 +37,8 @@ profiles:
     url: https://x.com/MeganKLevis
   - icon: brands/instagram
     url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+#  - icon: brands/github
+#    url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -52,8 +52,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Bioengineering
+    institution: University of Notre Dame
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
