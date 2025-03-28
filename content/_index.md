@@ -37,11 +37,11 @@ sections:
       title: '📚 My Work'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm an engineer and faculty member at the Institute of Social Conncers at The University of Notre Dame. I use my background in engineering to consider how technology shapes our relationships with ourselves and others. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I currently work on projects that consider virtue ethics approaches to designing (digital, social, biological) technologies that align with the common good. 
+
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
