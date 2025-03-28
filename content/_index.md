@@ -50,7 +50,7 @@ sections:
     id: teaching
 
     content:
-      title: Featured Projects
+      title: Teaching
 
       filters:
         folders:
