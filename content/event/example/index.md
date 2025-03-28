@@ -1,8 +1,8 @@
 ---
 title: Virtue in Virtual Spaces
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Virtue in Virtual Spaces Book
+event_url: https://litpress.org/Products/00269/Virtue-in-Virtual-Spaces?srsltid=AfmBOoqM6as2IkKkG0k-9uvWymdNODIc5u2jg5m1anijg1NAwEY4p9e8
 
 location: Hugo Blox Builder HQ
 address:
