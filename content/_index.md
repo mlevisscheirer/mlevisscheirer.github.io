@@ -41,7 +41,7 @@ sections:
 
         I currently work on projects that consider virtue ethics approaches to designing (digital, social, biological) technologies that align with the common good. 
 
-        📖 Check out my recent book, [Virtue in Virtual Spaces: Catholic Social Teaching and Technology](https://litpress.org/Products/00269/Virtue-in-Virtual-Spaces?srsltid=AfmBOoqequUIyrKaXppQ30LoZtiQgb8I4qhXyFcSe7Af-GMq3M9499hy). 
+        📖 Check out my recent book here: [Virtue in Virtual Spaces: Catholic Social Teaching and Technology](https://litpress.org/Products/00269/Virtue-in-Virtual-Spaces?srsltid=AfmBOoqequUIyrKaXppQ30LoZtiQgb8I4qhXyFcSe7Af-GMq3M9499hy). 
 
         
     design:
