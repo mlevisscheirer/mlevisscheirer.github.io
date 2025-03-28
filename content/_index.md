@@ -40,7 +40,7 @@ sections:
         I'm an engineer and faculty member at the Institute of Social Conncers at The University of Notre Dame. I use my background in engineering to consider how technology shapes our relationships with ourselves and others. 
 
         I currently work on projects that consider virtue ethics approaches to designing (digital, social, biological) technologies that align with the common good. 
-        📖 Find my recent book, [Virtue in Virtual Spaces: Catholic Social Teaching and Technology here] (https://litpress.org/Products/00269/Virtue-in-Virtual-Spaces?srsltid=AfmBOoqequUIyrKaXppQ30LoZtiQgb8I4qhXyFcSe7Af-GMq3M9499hy). 
+        📖 Find my recent book, [Virtue in Virtual Spaces: Catholic Social Teaching and Technology here](https://litpress.org/Products/00269/Virtue-in-Virtual-Spaces?srsltid=AfmBOoqequUIyrKaXppQ30LoZtiQgb8I4qhXyFcSe7Af-GMq3M9499hy). 
 
         
     design:
